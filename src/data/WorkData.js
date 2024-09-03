@@ -14,7 +14,7 @@ export const Work = [
         id:2,
         name:"Diary",
         description:"A simpe diary where the user can add, edit and delete their inputs",
-        tags:["html","css", "javascript"],
+        tags:["html","css", "javascript", "php", "mysql"],
         
         demo:"https://github.com/Danikuuu/Diary",
         github:"https://github.com/Danikuuu/Diary"
@@ -24,7 +24,7 @@ export const Work = [
         id:3,
         name:"SWIFT: Ordering Management System",
         description:"A multi-tenant ecommerce website for food establishments",
-        tags:["laravel","php","blade-template"],
+        tags:["laravel","php","blade-template", "mysql"],
         
         demo:"https://ar21s.clairemontferrond.net/",
         github:"https://ar21s.clairemontferrond.net/"
