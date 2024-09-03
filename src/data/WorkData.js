@@ -39,18 +39,9 @@ export const Work = [
         demo:"https://github.com/Danikuuu/Dispatch",
         github:"https://github.com/Danikuuu/Dispatch"
         
-    },  
+    }, 
     {
         id:5,
-        name:"Star Wars",
-        description:"A mobile application where the user can see the character info. Using html, css and js",
-        tags:["mobile app","html","css", 'javascript'],
-        
-        demo:"https://github.com/Danikuuu/StarWars",
-        github:"https://github.com/Danikuuu/StarWars"
-    },
-    {
-        id:6,
         name:"AnnounceSync",
         description:"A simple mobile app where the user can add, edit and delete announcements",
         tags:["mobile app", "java","firebase"],
@@ -59,7 +50,7 @@ export const Work = [
         github:"https://github.com/Danikuuu/AnnounceSync6"
        
     },{
-        id:7,
+        id:6,
         name:"AU CIT HandBook",
         description:"A mobile app dedicated for the students of PHINMA Aurollo University where they can see the Universities offering and etc.",
         tags:["mobile app","java"],
